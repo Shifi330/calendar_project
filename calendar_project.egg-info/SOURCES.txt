@@ -1,0 +1,5 @@
+setup.py
+calendar_project.egg-info/PKG-INFO
+calendar_project.egg-info/SOURCES.txt
+calendar_project.egg-info/dependency_links.txt
+calendar_project.egg-info/top_level.txt
